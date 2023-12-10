@@ -1,4 +1,4 @@
-module github.com/funi1234/n26n
+module github.com/funi1234/n26
 
 go 1.21.5
 

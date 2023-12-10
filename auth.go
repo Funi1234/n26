@@ -1,4 +1,4 @@
-package n26n
+package n26
 
 import (
 	"bytes"
